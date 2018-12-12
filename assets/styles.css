@@ -1,0 +1,65 @@
+body, html{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.container {
+  min-height: calc(100vh - 70px);
+}
+.footer {
+  height: 50px;
+  margin-bottom:0px;
+}
+
+.footer p{
+  padding-top: 15px;
+}
+
+.login_main{
+  margin: 100px auto;
+  height: 500px;
+  width: 800px;
+  text-align: center;
+  background-color: #dc3545;
+  padding-top: 50px;
+  border-radius: 10px;
+  color: #fff;
+  position: relative;
+}
+
+.login_main a{
+  color: #fff;
+  text-decoration: underline;
+}
+
+ .navbar {
+   margin-bottom: 50px;
+ }
+
+ #post{
+   border: 1px solid #cecece;
+   margin: 20px;
+   padding: 10px;
+   background-color: #eee;
+   border-radius: 5px;
+ }
+img {
+ max-width: 150px;
+ max-height: 150px;
+ margin: 0;
+ display: block;
+}
+
+#errors{
+  position: absolute;
+  margin-top: 20px;
+}
+
+.logo-t{
+  color: #dc3545;
+  font-size: 21px;
+}
+
+.jumbotron{
+  text-align: center;
+}
