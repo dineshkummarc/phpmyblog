@@ -6,7 +6,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 <div class="footer text-center bg-dark text-light">
-  <p>Oussama Er rabili &copy; <?php echo date('Y'); ?></p>
+  <p>phpmyBLOG &copy; <?php echo date('Y'); ?></p>
 </div>
 </body>
 </html>
