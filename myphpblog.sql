@@ -1,4 +1,4 @@
-CREATE DATABASE myphpblog;
+/* CREATE DATABASE myphpblog; */
 USE myphpblog;
 
 CREATE TABLE `posts` (
